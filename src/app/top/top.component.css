@@ -1,0 +1,37 @@
+.top {
+  background-color: #7777ed;
+  color: white;
+  padding: 20px;
+  border-radius: 4px;
+}
+
+h3 {
+  font-size: 16px;
+}
+
+p {
+  font-size: 12px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.searchbar {
+  padding-left: 10px;
+  border-radius: 40px;
+  border: 1px solid white;
+  /* padding: 3px; */
+  margin-top: 20px;
+  text-align: start;
+  /* font-size: 16px; */
+  background-color: #d9d9d961;
+}
+
+input {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 10px;
+  width: 233px;
+  border: 1px solid #4d4d9f;
+  color: #7a7a7a;
+  border-radius: 20px;
+}

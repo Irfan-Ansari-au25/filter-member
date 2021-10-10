@@ -1,0 +1,22 @@
+.row {
+  display: flex;
+  justify-content: flex-start;
+  align-content: stretch;
+  padding: 20px;
+  background: white;
+  align-items: center;
+  border-bottom: 1px solid #80808052;
+}
+
+.image-container {
+  margin-right: 25px;
+  /* border-radius: 50%; */
+}
+
+img {
+  border-radius: 50%;
+}
+
+.location {
+  color: #808080bf;
+}
